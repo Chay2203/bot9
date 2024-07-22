@@ -21,7 +21,7 @@ To set up the project locally, follow these steps:
 
 2. **Navigate to the project directory**:
     ```sh
-    cd bot9Ai-assignment-main
+    cd bot9Ai-main
     ```
 
 3. **Install the dependencies**:
