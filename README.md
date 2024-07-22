@@ -16,7 +16,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone <repository-url>
+    git clone <repo-url>
     ```
 
 2. **Navigate to the project directory**:
